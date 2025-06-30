@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/0/e3c48236fdec408eab53053ba034e989/artifacts
+end_time: 1751291831197
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e3c48236fdec408eab53053ba034e989
+run_name: fortunate-ram-557
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751291825184
+status: 3
+tags: []
+user_id: runner
